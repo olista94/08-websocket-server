@@ -1,3 +1,4 @@
+
 const lblOnline  = document.querySelector('#lblOnline');
 const lblOffline = document.querySelector('#lblOffline'); 
 const txtMensaje = document.querySelector('#txtMensaje');

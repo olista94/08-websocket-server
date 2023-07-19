@@ -18,7 +18,6 @@ const socketControler = ( socket ) => {
 
     })
 
-
 }
 
 module.exports = {

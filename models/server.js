@@ -1,9 +1,9 @@
+
 const express = require('express');
 const cors = require('cors');
 
 const { socketControler } = require('../sockets/controller');
  
-
 class Server {
 
     constructor() {
@@ -38,7 +38,6 @@ class Server {
     routes() {
         
         // this.app.use( this.paths.auth, require('../routes/auth'));
-
         
     }
 
