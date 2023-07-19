@@ -1,6 +1,4 @@
-# **Temas puntuales de la sección**
-## **Temas de la sección:**
-
+# **Temas de la sección:**
 Aquí cubriremos varios temas como: 
 
 - Introducción a los sockets
